@@ -1,0 +1,41 @@
+/* Add your custom CSS styles here */
+.hero {
+    background-color: #f4f4f4;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    color: #333;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    color: #555;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #343a40;
+    color: #fff;
+}
+
+/* Add more styles as needed */
+.smaller-profile {
+    max-width: 200px;
+    height: auto;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
